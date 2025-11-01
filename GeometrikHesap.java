@@ -2,7 +2,7 @@
  * Ad Soyad: [ümitcan çinar]
  * Ogrenci No: [250541009]
  * Tarih: [1/11/2025]
- * Aciklama: Gorev 1 - Ogrenci Bilgi Sistemi
+ * Aciklama: Gorev 2 - Geometrik Hesap Sistemi
  *
  * Bu program kullanicidan ogrenci bilgilerini alir ardından
  * duzenli bir formatta ekrana yazdirir.
