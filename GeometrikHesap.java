@@ -18,7 +18,7 @@ public class GeometrikHesap {
         Scanner input = new Scanner(in);
         out.print("yaricap degeri giriniz: ");
         int r = input.nextInt();
-        double pi = Math.PI;
+        final double pi = Math.PI;
         double Daire_Alani = pi * r * r;
         double Daire_Çevresi = 2*pi*r;
         double Daire_Capi = 2*r;
